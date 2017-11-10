@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1506387785 source:/home/samuel/Documentos/Trafego/trafego/main.cpp
+	<iostream>
+	"Parameters.h"
+	"GenerationFile.h"
+
+1506363673 source:/home/samuel/Documentos/Trafego/trafego/Parameters.cpp
+	"Parameters.h"
+	<iostream>
+
+1506376951 /home/samuel/Documentos/Trafego/trafego/Parameters.h
+
+1506390139 source:/home/samuel/Documentos/Trafego/trafego/GenerationFile.cpp
+	"GenerationFile.h"
+	<iostream>
+	<fstream>
+
+1506389004 /home/samuel/Documentos/Trafego/trafego/GenerationFile.h
+	<fstream>
+	<string.h>
+
